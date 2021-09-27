@@ -9,6 +9,7 @@ This website offers a personalized schedule for your Work Day
 * Java Script
 
 ## Website
+https://desmonddeon.github.io/WorkdaySchedule/
 
 
 ## Contribution
